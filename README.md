@@ -17,7 +17,6 @@ Apasionada por el desarrollo de software robusto y escalable. Especializada en t
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## 📫 Contacto  
-📧 **Email:** jm25001@esfe.agape.edu.sv   
-🌐 **Portafolio:** [www.lisseth-dev.com](https://www.lisseth-dev.com)  
+📧 **Email:** jm25001@esfe.agape.edu.sv    
 
 ⚡ **Dato curioso:** ¡Programo con mi café matutino ☕ y mi perrito [Nombre] siempre a mi lado! 🐕‍🦺💻  
